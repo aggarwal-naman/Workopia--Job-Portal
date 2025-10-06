@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Workopia--Job-Portal
+A full-stack job portal built with Laravel, PostgreSQL, and Tailwind CSS, enabling secure job postings, applications, and tracking, with role-based access for employers and job seekers and a responsive, user-friendly interface.
+>>>>>>> fe4befa19dd08fc5eb6aa1af9484e41c785bb70e
